@@ -14,7 +14,7 @@
         right-width="110"
       >
         <van-card
-          :num="goods.num"
+          :num="goods.num"     
           tag="new"
           :price="goods.price"
           :desc="goods.sell_point"
